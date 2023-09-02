@@ -11,8 +11,7 @@
 
 - 💬 Ask me about **Python, API development, Project management**
 
-- 📫 How to reach me **sudhanshudeshmukh5894@g
-- mail.com**
+- 📫 How to reach me **sudhanshudeshmukh5894@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sudhanshu-deshmukh-640b31217/](https://www.linkedin.com/in/sudhanshu-deshmukh-640b31217/)
 
