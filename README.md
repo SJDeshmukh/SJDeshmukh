@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sudhanshudeshmukh5894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sudhanshudeshmukh5894" height="30" width="40" /></a>
+<a href="https://codepen.io/sudhanshu_desh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sudhanshudeshmukh5894" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu-deshmukh-640b31217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudhanshu-deshmukh-640b31217/" height="30" width="40" /></a>
 <a href="https://instagram.com/sudhanshu__deshmukh24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudhanshu__deshmukh24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sudhanshudeshmu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sudhanshudeshmu2" height="30" width="40" /></a>
