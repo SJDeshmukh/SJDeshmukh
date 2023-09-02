@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudrocks" alt="sudrocks" /></a> </p>
 
-- 🌱 My research is going on **Detecting different faults in a bearing and its RUL**
+- 🌱 Currently I am working on a research for **Detecting different faults in a bearing and its RUL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudrocks/](https://github.com/sudrocks/)
 
