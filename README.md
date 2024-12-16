@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudrocks" alt="sudrocks" /></a> </p>
 
-- 🌱 Currently I am working on a research for **Detecting different faults in a bearing and its RUL**
+- 🌱 Currently looking for new opportunities to work along in the fields of comptuter vision and deep learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudrocks/](https://github.com/sudrocks/)
 
